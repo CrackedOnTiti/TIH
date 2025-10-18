@@ -1,0 +1,50 @@
+[book]
+title = "Tempered In Hate"
+authors = ["CrackedOnTiti"]
+language = "en"
+multilingual = false
+src = "src"
+description = "TIH cheat sheet for the author"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[preprocessor.links]
+
+[output.html]
+default-theme = "coal"
+preferred-dark-theme = "coal"
+git-repository-url = ""
+git-repository-icon = "fa-github"
+edit-url-template = ""
+site-url = ""
+cname = ""
+smart-punctuation = true
+mathjax-support = false
+copy-fonts = true
+additional-css = []
+additional-js = []
+no-section-label = false
+fold = { enable = false, level = 0 }
+
+[output.html.print]
+enable = true
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
+
+[output.html.playground]
+editable = false
+copyable = true
+copy-js = true
+line-numbers = false
+runnable = false
