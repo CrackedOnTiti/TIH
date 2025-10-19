@@ -28,6 +28,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Update Last Modified Dates
+        run: |
+          # Get current date in readable format
+          CURRENT_DATE=$(date -u +"%B %d, %Y at %H:%M UTC")
+
+          # Update all markdown files with date placeholders
+          find manga-project/src -name "*.md" -type f -exec sed -i "s/\*\*Last Updated:\*\* \[.*\]/\*\*Last Updated:\*\* $CURRENT_DATE/g" {} +
+          find manga-project/src -name "*.md" -type f -exec sed -i "s/\[Add date when making major changes\]/$CURRENT_DATE/g" {} +
+          find manga-project/src -name "*.md" -type f -exec sed -i "s/\[Date\]/$CURRENT_DATE/g" {} +
+
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
         with:

@@ -1,68 +1,47 @@
-# Protagonist 1
-
-> **Template Instructions:** Replace placeholder text in [brackets] with your character information. Delete this note when done.
+# Andre
 
 ## Basic Information
 
-**Full Name:** [Character's full name]
+**Full Name:** Andre ?
 
 **Nicknames/Aliases:** [Any other names they go by]
 
-**Age:** [Age in years]
+**Age:** 6 - 28
 
-**Height:** [Height in cm/feet]
+**Height:** 1.80cm
 
-**Weight:** [Weight in kg/lbs]
+**Weight:** 98kg
 
-**Gender:** [Gender]
+**Gender:** Male
 
-**Race/Species:** [Human/Demon/etc. - reference races from world building]
+**Race/Species:** Human
 
-**Birthplace:** [Where they were born - link to location if relevant]
+**Birthplace:** Slumb
 
-**Current Residence:** [Where they currently live]
-
-**Occupation/Role:** [What they do / their role in the story]
+**Occupation/Role:** Main character
 
 ---
 
-## Appearance
-
 ### Physical Description
 
-**Build/Body Type:** [Slim, muscular, average, etc.]
+**Build/Body Type:** Average -> BuiltFat -> HeavyBuilt -> SlimDefined (post rapture) -> SicklySlim -> SlimDefinied
 
 **Hair:**
-- **Color:** [Hair color]
-- **Style:** [Hairstyle description]
-- **Length:** [Hair length]
+- **Color:** Black
+- **Style:** Messy -> Bald -> TBD
+- **Length:** TBD
 
 **Eyes:**
-- **Color:** [Eye color]
-- **Shape:** [Eye shape - sharp, round, etc.]
-- **Notable Features:** [Any unique characteristics]
+- **Color:** Dark-Grey
 
-**Skin Tone:** [Skin color/tone]
+**Skin Tone:** Caucasian -> Metis
 
 **Distinguishing Features:**
-- [Scars, tattoos, birthmarks, etc.]
-- [Any other notable physical characteristics]
-- [Unique traits that make them recognizable]
-
-### Clothing/Style
-
-**Typical Outfit:**
-[Describe what they usually wear]
-
-**Combat/Action Outfit:**
-[What they wear when fighting or in dangerous situations]
-
-**Formal Outfit:**
-[What they wear for special occasions]
+- Stretch marks before rapture
+- Nothing distinguishable after raputre
 
 **Accessories:**
-- [Jewelry, weapons, bags, etc.]
-- [Items they always carry]
+- None
 
 ### Visual References
 
@@ -70,47 +49,35 @@
 
 ---
 
-## Personality
-
 ### Core Traits
 
 **Positive Traits:**
-- [Trait 1] - [Brief explanation/example]
-- [Trait 2] - [Brief explanation/example]
-- [Trait 3] - [Brief explanation/example]
+- Fast learner - Learns from mistakes
+- Determined
+- Dependable
 
 **Negative Traits:**
-- [Flaw 1] - [Brief explanation/example]
-- [Flaw 2] - [Brief explanation/example]
-- [Flaw 3] - [Brief explanation/example]
-
-**Neutral Traits:**
-- [Trait 1] - [Can be good or bad depending on context]
-- [Trait 2] - [Can be good or bad depending on context]
+- Usually learns once burned
+- Too invested in helping
 
 ### Personality Details
 
-**Temperament:** [How they typically react to situations]
+**Temperament:** Logical
 
-**Moral Alignment:** [Lawful/Neutral/Chaotic + Good/Neutral/Evil, or your own system]
+**Moral Alignment:** Mostly neutral-good
 
 **Likes:**
-- [Thing they enjoy]
-- [Thing they enjoy]
-- [Thing they enjoy]
+- Seeing the land from high up
+- Bathing
+- Fighting
 
 **Dislikes:**
-- [Thing they dislike]
-- [Thing they dislike]
-- [Thing they dislike]
+- TBD
 
 **Fears:**
-- [Deep fear 1]
-- [Deep fear 2]
+- None
 
-**Values:** [What they believe is most important in life]
-
-**Philosophy/Worldview:** [How they view the world and their place in it]
+**Values:** Have absolute confidence in ones actions, live wihtout regret
 
 ---
 

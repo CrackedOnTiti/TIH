@@ -10,10 +10,10 @@
 - [Antagonists](./characters/antagonists.md)
 - [Supporting Characters](./characters/supporting.md)
 - [Character Sheets](./characters/character-sheets/README.md)
-  - [Protagonist 1](./characters/character-sheets/protagonist-1.md)
-  - [Protagonist 2](./characters/character-sheets/protagonist-2.md)
-  - [Deuteragonist](./characters/character-sheets/deuteragonist.md)
-  - [Female Protagonist](./characters/character-sheets/female-protagonist.md)
+  - [Andre](./characters/character-sheets/andre/andre.md)
+  - [U](./characters/character-sheets/u/u.md)
+  - [Valdri](./characters/character-sheets/valdri/valdri.md)
+  - [Unari](./characters/character-sheets/unari/unari.md)
 
 ---
 

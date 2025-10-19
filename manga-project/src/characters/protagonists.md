@@ -5,10 +5,10 @@ This section contains information about the main protagonists of Tempered In Hat
 ## Overview
 
 **Main Protagonists:**
-- [Protagonist 1](./character-sheets/protagonist-1.md) - [Brief one-line description]
-- [Protagonist 2](./character-sheets/protagonist-2.md) - [Brief one-line description]
-- [Deuteragonist](./character-sheets/deuteragonist.md) - [Brief one-line description]
-- [Female Protagonist](./character-sheets/female-protagonist.md) - [Brief one-line description]
+- [Andre](./character-sheets/andre/andre.md) - [Brief one-line description]
+- [U](./character-sheets/u/u.md) - [Brief one-line description]
+- [Valdri](./character-sheets/valdri/valdri.md) - [Brief one-line description]
+- [Unari](./character-sheets/unari/unari.md) - [Brief one-line description]
 
 ## Group Dynamics
 
@@ -49,7 +49,7 @@ List important scenes that define the protagonist group:
 
 For detailed information about each protagonist, see their individual character sheets:
 
-- [Protagonist 1 Character Sheet](./character-sheets/protagonist-1.md)
-- [Protagonist 2 Character Sheet](./character-sheets/protagonist-2.md)
-- [Deuteragonist Character Sheet](./character-sheets/deuteragonist.md)
-- [Female Protagonist Character Sheet](./character-sheets/female-protagonist.md)
+- [Andre Character Sheet](./character-sheets/andre/andre.md)
+- [U Character Sheet](./character-sheets/u/u.md)
+- [Valdri Character Sheet](./character-sheets/valdri/valdri.md)
+- [Unari Character Sheet](./character-sheets/unari/unari.md)

@@ -4,10 +4,10 @@ Detailed character profiles for the main characters of Tempered In Hate.
 
 ## Main Characters
 
-- [Protagonist 1](./protagonist-1.md) - [One-line description]
-- [Protagonist 2](./protagonist-2.md) - [One-line description]
-- [Deuteragonist](./deuteragonist.md) - [One-line description]
-- [Female Protagonist](./female-protagonist.md) - [One-line description]
+- [Andre](./andre/andre.md) - [One-line description]
+- [U](./u/u.md) - [One-line description]
+- [Valdri](./valdri/valdri.md) - [One-line description]
+- [Unari](./unari/unari.md) - [One-line description]
 
 ## How to Use Character Sheets
 
@@ -38,10 +38,10 @@ Each character sheet contains detailed information organized into the following 
 
 | Character | Age | Role | Primary Ability | Main Goal |
 |-----------|-----|------|-----------------|-----------|
-| [Protagonist 1] | ? | [Role] | [Ability] | [Goal] |
-| [Protagonist 2] | ? | [Role] | [Ability] | [Goal] |
-| [Deuteragonist] | ? | [Role] | [Ability] | [Goal] |
-| [Female Protagonist] | ? | [Role] | [Ability] | [Goal] |
+| [Andre] | ? | [Role] | [Ability] | [Goal] |
+| [U] | ? | [Role] | [Ability] | [Goal] |
+| [Valdri] | ? | [Role] | [Ability] | [Goal] |
+| [Unari] | ? | [Role] | [Ability] | [Goal] |
 
 ---
 
